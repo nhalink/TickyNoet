@@ -1,3 +1,3 @@
 Reserved domain
 
-For now a simple coming soon page
+Idea for a Ticky Noet site
